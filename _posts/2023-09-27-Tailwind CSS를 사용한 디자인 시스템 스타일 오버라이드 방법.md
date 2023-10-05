@@ -5,7 +5,6 @@ categories:
   - JavaScript
 tags:
   - 테일윈드
-pin: true
 ---
 
 ## 문제 상황

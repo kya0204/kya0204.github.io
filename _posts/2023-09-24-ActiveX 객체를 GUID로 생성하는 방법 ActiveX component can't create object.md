@@ -5,7 +5,6 @@ categories:
   - JavaScript
 tags:
   - ActiveX
-pin: true
 ---
 
 ## 오류 분석: "ActiveX component can't create object"
