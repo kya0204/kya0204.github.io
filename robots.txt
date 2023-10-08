@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+Sitemap: https://kya0204.github.io/sitemap.xml
+
+#DaumWebMasterTool:ba0103c0217692bd9a1e3b540e935b10bef63ffa54f6161beb9606a7a7bb07fa:K5NHWMt5JRJpVGszrCNoYA==
